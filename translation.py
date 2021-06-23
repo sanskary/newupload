@@ -46,10 +46,11 @@ Expires on: 31/12/2020"""
    Video  - Give File as video without Screenshots
    DFile  - Give File without Screenshots
    
-<b>👉 Check Out :</b> 👉 <a href="https://www.youtube.com/channel/UC8V7BX_oyXI4K-wF4GAsm3g">JugaadHai Youtube Channel</a>
+<b>All Supported Sites list:</b> 👉 <a href="https://ytdl-org.github.io/youtube-dl/supportedsites.html">Click here</a>
 
---------
 Send /me to know current plan details
+--------
+<b>👉 Check Out :</b> 👉 <a href="https://www.youtube.com/channel/UC8V7BX_oyXI4K-wF4GAsm3g">JugaadHai Youtube Channel</a>
 
 Support Group : @JugaadhaiSupport
 © @jugaadhai"""
